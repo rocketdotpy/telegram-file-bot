@@ -54,8 +54,7 @@ python mm.py
 ## 🛠️ Project Structure
 ```
 telegram-file-bot/
-├── mm.py               # Main bot script
-├── config.py           # Configuration file
+├── main.py               # main
 ├── requirements.txt    # Dependencies
 ├── file_storage/       # Uploaded files directory
 └── README.md           # This file
